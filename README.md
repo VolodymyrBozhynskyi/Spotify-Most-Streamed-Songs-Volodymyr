@@ -1,10 +1,5 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
 # Тема проекту: Spotify Most Streamed Songs
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 ## Посилання на візуалізацію питань поставлених у проекті. https://da1-25-09-2024-les1.streamlit.app/
 # Мета:
 ## Проаналізувати вплив різних факторів на успішність (кількість прослуховування) музикальних композицій.
